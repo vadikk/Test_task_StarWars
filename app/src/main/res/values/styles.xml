@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="Splash" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:color">@color/colorBlack</item>
+    </style>
+    
+    <style name="MainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:statusBarColor" tools:ignore="NewApi">@color/colorBlack</item>
+        <item name="android:colorPrimary" tools:ignore="NewApi">@color/toolbarColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        
+
+    </style>
+
+</resources>

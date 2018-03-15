@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="image_url">%1$s</string>
+    <string name="example_name">Sova Sova</string>
+    <string name="example_birthday">50BBY</string>
+    <string name="height">height</string>
+    <string name="vertical_bar">|</string>
+    <string name="mass">mass</string>
+    <string name="gender">gender</string>
+    <string name="zero">0</string>
+    <string name="starships">starships</string>
+    <string name="films">films</string>
+    <string name="vehicles">vehicles</string>
+    <string name="open_in_browser">Open in Browser</string>
+</resources>
